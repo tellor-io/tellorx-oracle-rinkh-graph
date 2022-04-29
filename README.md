@@ -1,1 +1,1 @@
-# tellorx-rh-oracle
+# tellorx-oracle-rinkh-graph
